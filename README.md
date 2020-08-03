@@ -1,4 +1,6 @@
-## Nuke OS is a simple commandline operating system built concepts learnt from "Operating Systems : From 0 to 1"
+## Under Development
+
+## Nuke OS is a simple commandline operating system built from concepts learnt from "Operating Systems : From 0 to 1" book
 
 ## Features implemented
 1.Protected mode.
@@ -9,3 +11,4 @@
 1.Paging
 2.I/O
 
+## For Contribution Contact me : harishsg99@gmail.com
